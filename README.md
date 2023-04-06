@@ -1,1 +1,1 @@
-This is the repository to contain Dapp Twitter Clone using React and Solidity
+This is the repository to contain Dapp Social media app using React and Solidity
